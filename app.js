@@ -6,7 +6,7 @@ var MainArea = <div id='MainArea'>... MainArea ...</div>;
 
 // RENDER IT
 var rootElement = <div id='root'>{[ Header, MainArea ]}</div>;
-ReactDOM.createRoot( 
+ReactDOMClient.createRoot( 
   document.getElementById('app') 
 ).render(rootElement);
 
