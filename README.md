@@ -3,7 +3,7 @@ https://pulgasari.github.io/react-without-nodejs-example/
 
 ## Get started
 
-index.html
+index.html file
 ```html
 <!DOCTYPE html>
 <html lang="en">
